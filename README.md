@@ -4,7 +4,7 @@ The duration of the programme is two years. The BISE conducts terminal examinati
 
 ## Chairman
 
-<img src="./Images/Chairman.webp" width="100%" height="450px" alt="">
+<img src="./enav/assest/admision3.jpg" width="100%" height="450px" alt="">
 
 ## Some Ponits
 
